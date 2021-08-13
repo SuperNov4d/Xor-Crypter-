@@ -1,0 +1,3 @@
+﻿  crypter.cpp
+C:\Users\yaman\source\repos\crypter\crypter\crypter.cpp(13,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  crypter.vcxproj -> C:\Users\yaman\source\repos\crypter\Debug\crypter.exe
